@@ -10,9 +10,7 @@ WORLD_LIST_URL = "https://oldschool.runescape.com/g=oldscape/slu"
 STATIC_TARGETS = [
     "1.1.1.1",
     "1.0.0.1",
-    "grizzisland.servegame.com",
     "8.8.8.8",
-    "homelab.grizzisland.com",
     "account.jagex.com",
     "secure.jagex.com",
     "secure.runescape.com",
