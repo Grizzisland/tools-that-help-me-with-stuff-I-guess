@@ -1,0 +1,11 @@
+# inventory.yaml
+nodes:
+  core-sw01:
+    ip: "10.10.10.1"
+    vendor: "cisco"
+  dist-sw02:
+    ip: "10.10.10.2"
+    vendor: "juniper"
+  border-rtr01:
+    ip: "10.20.30.1"
+    vendor: "arista"
